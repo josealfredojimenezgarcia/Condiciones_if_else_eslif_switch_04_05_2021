@@ -41,5 +41,5 @@ else{
     <b><br><br>Esta edad de  $edad está fuera de los grupos etáreos</b>
 GrupoEtareo;
 }
-echo " <b><br><br><br><br><br><a href='index.html'>Volver</a>"
+echo " <br><br><br><br><br><a href='index.html'>Volver a Ejecutar</a>"
 ?>
